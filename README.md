@@ -88,26 +88,26 @@ Inspired by the Muse of Apollo, a poet in Delphi links the discovery to Orpheus�
 
 <br>
 
-Sing, O Euterpe, of music’s celestial strain,
-And Calliope, weave with thy voice the epic refrain!
-
-From Delphi’s hallowed slopes, where Apollo’s light doth gleam,
-A poet lifts his soul to the stars, inspired by a dream.
-
-Orpheus reborn, in Elias’s hands, a lyre anew,
-The Quantum Lyre, its strings of light, the cosmos’ truth pursue.
-
-In ages past, when Chaos yawned, a void of endless night,
-Gaia rose, and Uranus vast, to birth the gods might.
-
-Titanomachy, the war in heaven.
-Yet Zeus prevailed, with thunder bold, to claim Olympus throne.
-
-Now mortals, touched by Promethean fire, seek truths beyond the clay,
-Their minds united, souls alight, to tread the starry way.
-
-O Orpheus, son of Apollo’s grace, whose lyre did sway the breeze,
-Thy chords could tame the savage beast, make stones and rivers please.
+  Sing, O Euterpe, of music’s celestial strain,
+  And Calliope, weave with thy voice the epic refrain!
+  
+  From Delphi’s hallowed slopes, where Apollo’s light doth gleam,
+  A poet lifts his soul to the stars, inspired by a dream.
+  
+  Orpheus reborn, in Elias’s hands, a lyre anew,
+  The Quantum Lyre, its strings of light, the cosmos’ truth pursue.
+  
+  In ages past, when Chaos yawned, a void of endless night,
+  Gaia rose, and Uranus vast, to birth the gods might.
+  
+  Titanomachy, the war in heaven.
+  Yet Zeus prevailed, with thunder bold, to claim Olympus throne.
+  
+  Now mortals, touched by Promethean fire, seek truths beyond the clay,
+  Their minds united, souls alight, to tread the starry way.
+  
+  O Orpheus, son of Apollo’s grace, whose lyre did sway the breeze,
+  Thy chords could tame the savage beast, make stones and rivers please.
 
 <br><br>
 
