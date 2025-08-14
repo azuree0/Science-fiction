@@ -2,7 +2,7 @@
 
 <br><br>
 
-"The Quantum Lyre" (H1)
+"The Quantum Lyre" 
 
 <br><br>
 
