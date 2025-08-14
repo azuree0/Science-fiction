@@ -4,7 +4,7 @@
 
 _The Quantum Lyre_
 
-<br><br> <h4>
+<br><br> <h3>
 
 In the shadow of the Acropolis, where the ancient stones of Athens whispered of timeless inquiry, Dr Elias Kostas stood in his modest laboratory overlooking the Aegean Sea.
 
