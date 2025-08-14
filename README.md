@@ -2,7 +2,7 @@
 
 <br><br>
 
-_The Quantum Lyre_<h1>
+_The Quantum Lyre_
 
 <br><br>
 
