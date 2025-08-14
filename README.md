@@ -86,7 +86,7 @@ Through the GCSN, he launched a global initiative to build a network of quantum 
 
 Inspired by the Muse of Apollo, a poet in Delphi links the discovery to Orpheus’s lyre, composing a musical poetry of commemoration:
 
-<br><br>
+<br>
 
         Sing, O Euterpe, of music’s celestial strain,
         And Calliope, weave with thy voice the epic refrain!
