@@ -2,7 +2,7 @@
 
 <br><br>
 
-_The Quantum Lyre_ (H1)
+_The Quantum Lyre_ 
 
 <br><br>
 
