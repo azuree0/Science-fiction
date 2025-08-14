@@ -1,6 +1,6 @@
 ![Naxos](https://github.com/user-attachments/assets/6433caa4-af23-402d-b33d-69ce2defdca2)
 
-<br><br>
+<br><br> <h1>
 
 _The Quantum Lyre_
 
